@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 th{
-	border:solid;
-	border-thickness:1mm;
+	border:1px solid black;
+	
 }
 table{
-	border:solid;
-	border-thickness:1mm;
+	border:1px solid black;
+	
 	
 }
 td{
-	border:solid;
-	border-thickness:1mm;
+	border:1px solid black;
+	
 }
